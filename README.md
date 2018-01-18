@@ -6,4 +6,5 @@ This is a color game .The generated RGB color is displayed at the top section an
 There are two mode in this game , the easy way or the hard way.
  - The easy way has only 3 square boxes that you need to choose from while the hard way has 6 square boxes that you have to choose from
 
-# you want to practice how well you know your RGB colors. give this game a try. 
+# you want to practice how well you know your RGB colors.
+  give this game a try. 
